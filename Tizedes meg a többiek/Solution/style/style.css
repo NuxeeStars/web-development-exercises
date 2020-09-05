@@ -1,0 +1,28 @@
+body {
+    color: white;
+    background: url("../img/hatter.png");
+}
+
+table {
+    width: 1000px;
+    border: none;
+    border-spacing: 0px;
+  
+}
+
+td {
+    padding: 5px;
+}
+
+.szelso {
+    width: 120px;
+}
+.igazolvanyKep{
+   /* float
+   */
+    
+}
+
+a {
+    color: #c0c0c0;
+}
