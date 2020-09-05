@@ -1,0 +1,58 @@
+body {
+  background-color: #9CEE59;  
+  
+}
+.margo{
+    background-color: #509050;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    border-spacing: 0;
+
+
+}
+.tartalomTablazat {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: none;
+    border-spacing: 1px;
+    
+}
+
+
+.margo td, .tartalomTablazat td {
+    padding: 0px;
+    
+}
+
+#szivas {
+    padding-bottom: 20px;
+}
+
+.tartalomTablazat tr:nth-child(2) {
+    background-color: black;
+    color: white;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+a {
+    color: #999999; 
+}
+.gyomosKep {
+    float: right;
+    border: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+
+
+
+
