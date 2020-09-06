@@ -1,0 +1,71 @@
+body {
+    background-color: #999999;
+    color: black;
+
+}
+
+
+a {
+    color: white;
+}
+
+#table {
+    width: 670px;
+    border: none;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 2px;
+
+}
+
+#table td{
+    padding: 2px;
+}
+#belso {
+    border: none;
+    width: 650px;
+    background-color: #485808;
+    border-spacing: 2px;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#belso td {
+    height: 60px;
+    padding: 2px;
+    border: solid  #999999 2px;
+    text-align: center;
+
+    
+}
+
+.cimKep {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#belso td h1 {
+    color: white;
+}
+
+h2 {
+    background-image: url("../img/jel.png");
+    background-repeat: no-repeat;
+    padding-left: 25px;
+}
+
+#hivatkozas {
+    font-size: large;
+    font-weight: bold;
+}
+
+#cai-lun {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: solid 1px;
+}
