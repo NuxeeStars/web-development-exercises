@@ -3,7 +3,7 @@ body {
     background: url("../img/hatter.png");
 }
 
-table {
+#kulso {
     width: 1000px;
     border: none;
     border-spacing: 0px;
@@ -18,11 +18,36 @@ td {
     width: 120px;
 }
 .igazolvanyKep{
-   /* float
-   */
-    
+    display: block;
+  }
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table.center {
+    border-spacing: 5px;
+    border: none;
 }
 
 a {
     color: #c0c0c0;
+}
+p {
+    text-align: justify;
+}
+hr {
+    text-align: center;
+    width: 80%;
+}
+
+p.right {
+    text-align: right;
+
+}
+
+cite {
+    font-weight: bold;
 }

@@ -1,0 +1,25 @@
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+#data {
+    width: 100%;
+    
+
+}
+#data td, #data th  {
+    border: 1px solid black;
+}
+
+#data tr td:nth-child(3)  {
+    text-align: center;
+}
+
+#kiemeles {
+    color: white;
+    background-color: black;
+}
