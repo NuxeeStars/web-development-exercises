@@ -1,0 +1,77 @@
+body {
+    background-color: aliceblue;
+    color: darkblue;
+
+}
+
+a {
+    color: crimson;
+}
+
+h2 {
+    color: crimson;
+}
+
+#cimkep {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+   
+    
+
+}
+
+hr {
+    width: 70%;
+}
+
+
+#rendszBes {
+    width: 400px;
+    padding: none;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#kep1, #eletmod{
+    border: 1px;
+    float: right;
+}
+
+#besTab {
+    width: 500px;
+    padding: none;
+    border-spacing: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+#besTab td {
+    
+    padding: 6px;
+}
+
+.rendBesH h2 {
+    color: aliceblue;
+    margin: 0px;
+}
+#besTab td:first-child {
+    text-align: right;
+    width: 240px;
+}
+
+#besTab td.center {
+    text-align: center;
+}
+
+.rendBesH { 
+    background-color: crimson;
+}
+
+
+
+
