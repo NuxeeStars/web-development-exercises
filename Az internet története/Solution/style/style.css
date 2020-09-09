@@ -1,0 +1,57 @@
+body {
+    background-color: #E0E0E0;
+    color: black;
+   
+
+}
+
+a {
+    color: #666584;
+}
+
+#kulso {
+    background-color: #5C6B7B;
+    width: 650px;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#kulso  td {
+    padding: 0px;
+}
+
+#belso {
+    background-color: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 1px;
+}
+
+#belso td {
+    padding: 0px;
+}
+
+.sorok {
+    background-color: #CDDBEB;
+    height: 35px;
+    text-align: center;
+}
+
+strong {
+    font-size: xx-large;
+}
+
+#memex {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#vannervar {
+    margin-left: 5px;
+    margin-right: 5px;
+    float: right;
+}
