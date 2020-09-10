@@ -1,0 +1,54 @@
+body{
+    background-color: #F0F0F0;
+
+}
+
+a {
+    color: #747474;
+}
+
+table {
+    width: 1000px;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.paratlan {
+    width: 150px;
+    border: none;
+    border-spacing: 2;
+
+}
+
+.paros {
+    width: 900px;
+}
+
+#jobb {
+    text-align: right;
+}
+
+#szin {
+    background-color: #9BCE11;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #9BCE11;
+}
+
+.fugerajz {
+    float: right;
+    
+} 
+
+#gyumolcs {
+    vertical-align: top;
+    
+}
