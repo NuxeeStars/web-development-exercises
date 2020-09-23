@@ -1,0 +1,66 @@
+body {
+    background-color: #e4d7b5;
+    color: #7a2206;
+    
+}
+
+a {
+   color: #2f2f2f;
+}
+
+#zenekar {
+    float: right;
+    border: 1px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+hr {
+    width: 80%;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+.vissza {
+    
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+}
+
+h1#fafuvosok {
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 1px outset;
+    text-align: center;
+
+}
+
+td {
+    border-width: 1px ;
+    border-style: inset;
+}
+
+.tableImg {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid;
+    text-align: center;
+    
+    
+    
+}
+
+
+    
