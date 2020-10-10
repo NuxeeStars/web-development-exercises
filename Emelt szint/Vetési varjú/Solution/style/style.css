@@ -1,0 +1,59 @@
+body {
+    background-color: #99acb2;
+    color: #192c32;
+    
+}
+
+a {
+    color: #ff6f00;
+}
+
+table {
+    width: 1006px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: inherit;
+    
+}
+
+
+td {
+    
+    padding: 3px;
+
+}
+
+.feherHatter {
+    background-color: white;
+    
+    
+}
+
+.feherHatter td:nth-child(2) {
+    border-left: solid;
+    border-right: solid;
+}
+
+.cimsorKozepre {
+    text-align: center;
+}
+
+
+#fejlec {
+    border: solid black 1px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.oldalsoKep {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
+
+.kozepsoSzoveg {
+    
+
+}
